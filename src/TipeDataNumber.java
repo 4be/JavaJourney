@@ -7,6 +7,8 @@ public class TipeDataNumber {
         long iniLong = 1111111111;
         long inilong = 1111111111L;
 
+        System.out.println("gg");
+
 
     }
 }
